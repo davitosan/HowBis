@@ -5,3 +5,7 @@
 ## Version: 0.0.1
 
 HowBis.lua
+HowBisHelpers.lua
+HowBisInterpreter.lua
+
+Guides\Guides.xml
