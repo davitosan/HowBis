@@ -1,0 +1,7 @@
+## Interface: 11501
+## Title: HowBis
+## Author: Davitosan
+## Notes: Addon to show players Bisness
+## Version: 0.0.1
+
+HowBis.lua

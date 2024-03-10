@@ -1,0 +1,1 @@
+print("HowBis: Hello World! GetBuildInfo():" .. GetBuildInfo())
