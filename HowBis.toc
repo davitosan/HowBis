@@ -1,4 +1,4 @@
-## Interface: 11501
+## Interface: 11505, 11506
 ## Title: HowBis
 ## Author: Davitosan
 ## Notes: Addon to show players Bisness
